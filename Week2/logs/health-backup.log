@@ -1,0 +1,13 @@
+2026-06-30 21:05:04 ------ Health check started -----
+2026-06-30 21:05:04 -OK - Disk usage is1%
+2026-06-30 21:05:04 -OK - Memory usage is21%
+2026-06-30 21:05:04 -OK - Service 'cron' is running
+2026-06-30 21:05:04 -All checks passed. Proceeding with backup.
+2026-06-30 21:05:04 -BACKUP SUCCESS - Created backup-20260630-210504.tar.gz
+2026-06-30 21:05:04 ------ Health check finished -----
+2026-06-30 21:07:45 ------ Health check started -----
+2026-06-30 21:07:45 -FAIL - Disk usage is1%, above threshold of1%
+2026-06-30 21:07:45 -OK - Memory usage is21%
+2026-06-30 21:07:45 -OK - Service 'cron' is running
+2026-06-30 21:07:45 -One or more checks failed. Backup skipped.
+2026-06-30 21:07:45 ------ Health check finished -----
