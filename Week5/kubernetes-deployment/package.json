@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-deployment-app",
+  "version": "1.0.0",
+  "description": "A Node.js app deployed on Kubernetes",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chinonso Vivian Ojeri",
+  "license": "MIT"
+}
